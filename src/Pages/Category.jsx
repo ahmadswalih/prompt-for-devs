@@ -1,7 +1,6 @@
 import React, { useEffect, useState } from "react";
-import { Link, json, useParams } from "react-router-dom";
+import { Link, useParams } from "react-router-dom";
 import { Prompts } from "../components";
-import codeGeneration from "../data/code-generation";
 
 const CategoryPage = () => {
   const { categoryName } = useParams();
@@ -18,8 +17,8 @@ const CategoryPage = () => {
 
   return (
     <div className="text-black items-center   flex mx-auto my-auto flex-col justify-center mt-16">
-      <Link to={"/"}>
-        <p className="text-sm bg-purple-500 text-white p-2 mb-3 border border-purple-400 rounded-lg">
+      <Link to="/">
+        <p className="text-sm bg-purple-500 cursor-pointer text-white p-2 mb-3 border border-purple-400 rounded-lg">
           Back to Home page
         </p>
       </Link>
