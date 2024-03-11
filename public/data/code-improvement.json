@@ -1,0 +1,54 @@
+[
+    {
+        "id": 1,
+        "value": "How can I make this [language] function more efficient: [code snippet]?"
+    },
+    {
+        "id": 2,
+        "value": "Suggest alternative methods or functions to improve this [language] code: [code snippet]."
+    },
+    {
+        "id": 3,
+        "value": "What are some improvements I can make to this [language] algorithm: [code snippet]?"
+    },
+    {
+        "id": 4,
+        "value": "Can you suggest ways to make this [language] function more readable: [code snippet]?"
+    },
+    {
+        "id": 5,
+        "value": "This [language] class: [code snippet] seems a bit convoluted. Any ideas for simplification?"
+    },
+    {
+        "id": 6,
+        "value": "How could I refactor this [language] code to use more modern features: [code snippet]?"
+    },
+    {
+        "id": 7,
+        "value": "Suggest ways to refactor this [language] function: [code snippet] to improve readability and maintainability."
+    },
+    {
+        "id": 8,
+        "value": "Can you provide alternative approaches to perform [task] for the given [language] code: [code snippet]?"
+    },
+    {
+        "id": 9,
+        "value": "Provide recommendations to make this [language] code: [code snippet] more idiomatic and efficient."
+    },
+    {
+        "id": 10,
+        "value": "Please review this [language] function: [code snippet]. How can it be made more readable, efficient, and compliant with [specific coding standard]?"
+    },
+    {
+        "id": 11,
+        "value": "Could you suggest improvements to this [language] code: [code snippet] to better handle [specific scenario] and follow the [best practice]?"
+    },
+    {
+        "id": 12,
+        "value": "How can this [language] function: [code snippet] be refactored to improve readability, performance, and compatibility with [library/framework/API]?"
+    },
+    {
+        "id": 13,
+        "value": "Can you suggest code improvements for this [language] function named [function name] that accomplishes [task] with these libraries [libraries list], inputs: [input variables], and expected output: [output]: [code snippet]?"
+    }
+]

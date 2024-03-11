@@ -1,0 +1,47 @@
+[
+    {
+      "id": 1,
+      "value": "Can you provide an example of using the [API] in [language]?"
+    },
+    {
+      "id": 2,
+      "value": "Explain how to use the [specific endpoint] in the [API] using [language]."
+    },
+    {
+      "id": 3,
+      "value": "How do I authenticate and make a request to [API] in [language]?"
+    },
+    {
+      "id": 4,
+      "value": "Can you show me how to interact with the [API] using [language] to achieve [specific task]?"
+    },
+    {
+      "id": 5,
+      "value": "How would I go about making a [type of request] to [API] using [language]?"
+    },
+    {
+      "id": 6,
+      "value": "I’m trying to use the [API] in my [language] project. Can you help me understand how to use [specific endpoint]?"
+    },
+    {
+      "id": 7,
+      "value": "I’m trying to use the [API] in my [language] project. How can I use it to perform [task]?"
+    },
+    {
+      "id": 8,
+      "value": "Can you show me how to use [specific endpoint] from the [API] using [language] to achieve [specific result]?"
+    },
+    {
+      "id": 9,
+      "value": "How do I authenticate and make a [type of request] to [API] using [language]?"
+    },
+    {
+      "id": 10,
+      "value": "I’m learning the [API name] in [language]. Can you explain how to use the [specific endpoint/method] with [specific parameters] to perform [task]?"
+    },
+    {
+      "id": 11,
+      "value": "Could you give me an example of how to use the [API name] in [language] to retrieve [data type], filter with [criteria], and handle [specific error]?"
+    }
+  ]
+  

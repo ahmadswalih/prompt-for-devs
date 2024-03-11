@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "value": "Suggest improvements to optimize this [language] function: [code snippet]."
+    },
+    {
+        "id": 2,
+        "value": "Can you provide a more efficient version of this [language] algorithm: [code snippet]?"
+    },
+    {
+        "id": 3,
+        "value": "How can I improve the performance of this [language] script: [code snippet]?"
+    },
+    {
+        "id": 4,
+        "value": "This [language] function: [code snippet] is running slower than I’d like. Any optimization suggestions?"
+    },
+    {
+        "id": 5,
+        "value": "I need to improve the speed of this [language] algorithm: [code snippet]. What changes would you recommend?"
+    },
+    {
+        "id": 6,
+        "value": "How could I make this [language] data processing code more efficient: [code snippet]?"
+    },
+    {
+        "id": 7,
+        "value": "The following [language] function: [code snippet] runs slower than expected when processing [input type]. Any suggestions for optimization?"
+    },
+    {
+        "id": 8,
+        "value": "How can I improve the performance of this [language] function: [code snippet] when handling [large dataset]?"
+    },
+    {
+        "id": 9,
+        "value": "Provide optimization suggestions for the following [language] code: [code snippet] used to process [data type]."
+    },
+    {
+        "id": 10,
+        "value": "How can I optimize this [language] function: [code snippet] to perform [task] more quickly when handling [large data size] and maintain accuracy of [accuracy requirement]?"
+    },
+    {
+        "id": 11,
+        "value": "I have this [language] function: [code snippet]. It works as expected but runs slower than I’d like when handling [specific data]. Any suggestions for performance improvement?"
+    },
+    {
+        "id": 12,
+        "value": "The following [language] code: [code snippet] performs [task]. However, it seems inefficient with [data type] of size [data size]. How can I optimize it?"
+    }
+]

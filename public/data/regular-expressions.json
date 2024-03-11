@@ -1,0 +1,47 @@
+[
+    {
+      "id": 1,
+      "value": "Explain this regular expression in [language]: [regex]."
+    },
+    {
+      "id": 2,
+      "value": "Can you help me create a regular expression in [language] that matches [pattern]?"
+    },
+    {
+      "id": 3,
+      "value": "How do I use regular expressions to [perform task] in [language]?"
+    },
+    {
+      "id": 4,
+      "value": "Can you help me create a regular expression in [language] to extract [specific pattern] from [type of text]?"
+    },
+    {
+      "id": 5,
+      "value": "How can I use a regular expression in [language] to replace [specific pattern] in [type of text]?"
+    },
+    {
+      "id": 6,
+      "value": "I need a regular expression in [language] that matches [pattern] in a [context]. Can you help me construct one?"
+    },
+    {
+      "id": 7,
+      "value": "Can you help me understand this regular expression in [language]: [regex]? It is supposed to match [pattern]."
+    },
+    {
+      "id": 8,
+      "value": "I want to use a regular expression in [language] to replace [pattern A] with [pattern B] in [text or code snippet]. Can you help?"
+    },
+    {
+      "id": 9,
+      "value": "How do I create a regular expression in [language] that matches [pattern] in a [data type] and handles [specific edge case]?"
+    },
+    {
+      "id": 10,
+      "value": "I need to write a regular expression in [language] to parse [specific pattern] from [data type]. Can you guide me on that and also explain how it works?"
+    },
+    {
+      "id": 11,
+      "value": "Can you explain how to write a regular expression in [language] to extract [specific pattern] from [data type], considering [specific scenario]?"
+    }
+  ]
+  

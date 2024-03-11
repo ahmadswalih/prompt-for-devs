@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "value": "Explain the concept of [programming concept] in [language]."
+    },
+    {
+        "id": 2,
+        "value": "Could you explain how [library or framework] works in [language]?"
+    },
+    {
+        "id": 3,
+        "value": "I need help understanding the [programming paradigm] paradigm in [language]."
+    },
+    {
+        "id": 4,
+        "value": "Can you explain the differences between [concept A] and [concept B] in [language]?"
+    },
+    {
+        "id": 5,
+        "value": "What is the significance of [concept] when coding in [language]?"
+    },
+    {
+        "id": 6,
+        "value": "How does [concept] impact the way we write [language] code?"
+    },
+    {
+        "id": 7,
+        "value": "Explain how [concept] is used in [language] and provide a simple code example that uses [specific features]."
+    },
+    {
+        "id": 8,
+        "value": "What are the key differences between [concept A] and [concept B] in [language] and how do they affect code performance?"
+    },
+    {
+        "id": 9,
+        "value": "Can you explain [concept] in [language] and show me how it can be used in a real-world application such as [use case]?"
+    },
+    {
+        "id": 10,
+        "value": "Can you explain the concept of [concept] in [language]? Also, could you provide a code example that uses it to perform [task] with [specific data type]?"
+    },
+    {
+        "id": 11,
+        "value": "I’m trying to understand [concept] in [language]. Could you explain it with a practical example, especially in the context of [use case]?"
+    },
+    {
+        "id": 12,
+        "value": "Explain the difference between [concept A] and [concept B] in [language], their performance implications, and use-cases where one would be preferable over the other."
+    }
+]

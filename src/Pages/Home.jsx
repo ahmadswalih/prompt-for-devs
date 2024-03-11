@@ -1,15 +1,18 @@
 import React, { useEffect, useState } from "react";
 import { CategoryList } from "../components";
 import logo from "../assets/logo.png";
-import categoryData from "../data/categories.json";
 
 const HomePage = () => {
   const [categories, setCategories] = useState([]);
 
   useEffect(() => {
-    // Set categories when component mounts
-    setCategories(categoryData);
-  }, []); // Empty dependency array to ensure useEffect runs only once
+    fetch(`/data/categories.json`)
+      .then((response) => response.json())
+      .then((data) => setCategories(data))
+      .catch((error) =>
+        console.error("Error fetching or parsing data:", error)
+      );
+  }, []);
 
   return (
     <div className="text-white items-center  flex mx-auto my-auto flex-col justify-center mt-16">

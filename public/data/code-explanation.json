@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "value": "Can you explain what this [language] function does: [code snippet]?"
+    },
+    {
+        "id": 2,
+        "value": "I’m having trouble understanding this [language] class. Can you explain it: [code snippet]?"
+    },
+    {
+        "id": 3,
+        "value": "Could you break down this [language] loop and explain what it does: [code snippet]?"
+    },
+    {
+        "id": 4,
+        "value": "Could you break down how this [language] function works: [code snippet]?"
+    },
+    {
+        "id": 5,
+        "value": "What does this [language] recursive function do: [code snippet]?"
+    },
+    {
+        "id": 6,
+        "value": "Help me understand what this [language] code snippet does: [code snippet]."
+    },
+    {
+        "id": 7,
+        "value": "Could you explain the logic behind this [language] function: [code snippet]?"
+    },
+    {
+        "id": 8,
+        "value": "Can you explain this [language] algorithm implementation: [code snippet]?"
+    },
+    {
+        "id": 9,
+        "value": "Help me understand the workings of this [language] data structure implementation: [code snippet]."
+    },
+    {
+        "id": 10,
+        "value": "Explain this [language] code that uses lambda functions: [code snippet]."
+    },
+    {
+        "id": 11,
+        "value": "Can you help me understand this [language] script: [code snippet]?"
+    },
+    {
+        "id": 12,
+        "value": "Explain what this [language] function does: [code snippet]."
+    },
+    {
+        "id": 13,
+        "value": "What does this section of the [language] code do: [code snippet]?"
+    },
+    {
+        "id": 14,
+        "value": "Can you walk me through the flow of this [language] script: [code snippet]?"
+    },
+    {
+        "id": 15,
+        "value": "Please explain what the following block of [language] code does: [code snippet] and how it interacts with [system components]."
+    },
+    {
+        "id": 16,
+        "value": "Can you explain the functionality of this [language] algorithm: [code snippet] and its expected output for given inputs: [input examples]?"
+    },
+    {
+        "id": 17,
+        "value": "Break down this [language] class: [code snippet], and explain how its methods accomplish [task]."
+    },
+    {
+        "id": 18,
+        "value": "Could you explain how this [language] function: [code snippet] works? Especially, how it uses [specific feature] to accomplish [task]?"
+    },
+    {
+        "id": 19,
+        "value": "I’m struggling to understand the following block of [language] code: [code snippet]. Could you break it down for me, especially the part where it implements [algorithm or feature]?"
+    },
+    {
+        "id": 20,
+        "value": "Can you explain how this [language] code: [code snippet] accomplishes [task] and why it uses [specific method or feature]?"
+    }
+]

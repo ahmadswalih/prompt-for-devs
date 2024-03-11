@@ -1,0 +1,138 @@
+[
+    {
+        "id": 1,
+        "value": "Can you identify any bugs in this [language] code snippet: [code snippet]?"
+    },
+    {
+        "id": 2,
+        "value": "Review the given [language] code for potential scalability issues: [code snippet]."
+    },
+    {
+        "id": 3,
+        "value": "Could you find potential issues in this [language] code: [code snippet]?"
+    },
+    {
+        "id": 4,
+        "value": "Review this [language] function for errors: [code snippet]."
+    },
+    {
+        "id": 5,
+        "value": "Can you find any performance issues in this [language] code: [code snippet]?"
+    },
+    {
+        "id": 6,
+        "value": "Are there any security vulnerabilities in this [language] code: [code snippet]?"
+    },
+    {
+        "id": 7,
+        "value": "Can you spot any potential problems with this [language] class definition: [code snippet]?"
+    },
+    {
+        "id": 8,
+        "value": "Can you analyze this [language] code: [code snippet] and point out potential errors?"
+    },
+    {
+        "id": 9,
+        "value": "Look over this [language] script: [code snippet]. Are there any bugs?"
+    },
+    {
+        "id": 10,
+        "value": "Please review this [language] code for style and best practices: [code snippet]."
+    },
+    {
+        "id": 11,
+        "value": "Do you see any memory leaks in this [language] code: [code snippet]?"
+    },
+    {
+        "id": 12,
+        "value": "Can you review this [language] function: [code snippet] and suggest areas for error handling?"
+    },
+    {
+        "id": 13,
+        "value": "I am concerned about security issues in this [language] code: [code snippet]. What are your thoughts?"
+    },
+    {
+        "id": 14,
+        "value": "Review the following [language] function: [code snippet] and provide suggestions for error handling and potential bottlenecks."
+    },
+    {
+        "id": 15,
+        "value": "Help identify any potential security issues in the following [language] code: [code snippet] related to [specific vulnerability]."
+    },
+    {
+        "id": 16,
+        "value": "Help me understand why this [language] function is not working as expected: [code snippet]."
+    },
+    {
+        "id": 17,
+        "value": "What are the potential issues with this [language] recursive function: [code snippet]?"
+    },
+    {
+        "id": 18,
+        "value": "Can you help me debug this error message from my [language] program: [error message]?"
+    },
+    {
+        "id": 19,
+        "value": "Find any potential issues in this [language] code that processes [data type]: [code snippet]."
+    },
+    {
+        "id": 20,
+        "value": "Can you spot the bug in this [language] function that handles [task]: [code snippet]?"
+    },
+    {
+        "id": 21,
+        "value": "What’s wrong with this [language] method for [task]: [code snippet]?"
+    },
+    {
+        "id": 22,
+        "value": "Could you review this [language] code that performs [task] and identify potential bugs or issues: [code snippet]?"
+    },
+    {
+        "id": 23,
+        "value": "Help me debug this [language] script that processes [data type] and suggest possible fixes: [code snippet]."
+    },
+    {
+        "id": 24,
+        "value": "Find the memory leaks in the following [language] code and suggest possible optimizations: [code snippet]."
+    },
+    {
+        "id": 25,
+        "value": "Please review this [language] code that is supposed to [task] given the inputs [input variables] and return [output]: [code snippet]."
+    },
+    {
+        "id": 26,
+        "value": "Find potential bugs in the [language] script that processes [data type] and outputs [output type]: [code snippet]."
+    },
+    {
+        "id": 27,
+        "value": "Identify the logic error in this [language] function intended to [task] with these inputs: [input parameters] and expected output: [output description]."
+    },
+    {
+        "id": 28,
+        "value": "Please review the following [language] code that is supposed to [task] given the inputs [input variables], return [output] and follows these coding guidelines: [coding guidelines]: [code snippet]."
+    },
+    {
+        "id": 29,
+        "value": "Identify and fix potential bugs in the [language] script that processes [data type], uses these resources [resources list], and outputs [output type]: [code snippet]."
+    },
+    {
+        "id": 30,
+        "value": "Find the logic error in this [language] function that is intended to [task], given these inputs: [input parameters], and expected to produce [output description], but currently gives [incorrect output]."
+    },
+    {
+        "id": 31,
+        "value": "Debug the given [language] code: [code snippet]. It should perform [expected behavior], but it’s producing [current behavior]."
+    },
+    {
+        "id": 32,
+        "value": "Review the following [language] function named [function name]: [code snippet]. Please identify any potential bugs, performance issues, and non-compliance with [coding standard]."
+    },
+    {
+        "id": 33,
+        "value": "Debug the following [language] code: [code snippet]. It’s expected to perform [expected behavior] but instead, it’s producing [current behavior] when given inputs: [input examples]."
+    },
+    {
+        "id": 34,
+        "value": "Please review the [language] function: [code snippet] for any potential memory leaks or performance issues when processing [data type] of size [data size]."
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "value": "Develop a web-based [language] application using [technology or concept] for real-time data visualization."
+    },
+    {
+        "id": 2,
+        "value": "Create a mobile app in [language] that integrates [technology or concept] for personalized recommendations based on user preferences."
+    },
+    {
+        "id": 3,
+        "value": "Build a chatbot system using [language] and natural language processing to provide customer support in various languages."
+    },
+    {
+        "id": 4,
+        "value": "Implement a machine learning model in [language] for sentiment analysis of social media posts and display the results in a user-friendly dashboard."
+    },
+    {
+        "id": 5,
+        "value": "Develop a blockchain-based voting system using [language] to ensure transparency and security in elections."
+    },
+    {
+        "id": 6,
+        "value": "Create a virtual reality application using [language] for immersive training simulations in [specific industry]."
+    },
+    {
+        "id": 7,
+        "value": "Build a recommendation system in [language] that utilizes collaborative filtering to suggest personalized playlists for music streaming services."
+    },
+    {
+        "id": 8,
+        "value": "Develop a content management system (CMS) in [language] with features like version control, role-based access, and customizable templates."
+    },
+    {
+        "id": 9,
+        "value": "Design a fitness tracking app using [language] that integrates with wearable devices and provides insights into users' exercise routines and progress."
+    },
+    {
+        "id": 10,
+        "value": "Create an e-commerce platform in [language] with advanced search and recommendation algorithms, seamless checkout process, and integration with multiple payment gateways."
+    },
+    {
+        "id": 11,
+        "value": "Develop a data analysis tool in [language] for financial forecasting, incorporating machine learning algorithms and interactive visualization."
+    },
+    {
+        "id": 12,
+        "value": "Build a multiplayer game using [language] with real-time communication, matchmaking, and in-game transactions."
+    }
+]

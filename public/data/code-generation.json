@@ -1,0 +1,143 @@
+
+[
+    {
+        "id": 1,
+        "value": "Write a function in [language] to calculate the [mathematical concept]."
+    },
+    {
+        "id": 2,
+        "value": "Create a [language] function to [perform task]."
+    },
+    {
+        "id": 3,
+        "value": "Write a [language] program that [performs task] using [library or algorithm]."
+    },
+    {
+        "id": 4,
+        "value": "Write a [language] script that reads from [data source] and outputs to [data destination]."
+    },
+    {
+        "id": 5,
+        "value": "Can you generate a [language] code that implements [data structure or algorithm]?"
+    },
+    {
+        "id": 6,
+        "value": "Can you provide a [language] script to parse [file format]?"
+    },
+    {
+        "id": 7,
+        "value": "Implement a [language] function to handle [task]."
+    },
+    {
+        "id": 8,
+        "value": "Create a [language] script to sort an array of [data type]."
+    },
+    {
+        "id": 9,
+        "value": "Write a [language] function to find the [n-th element] in a [data structure]."
+    },
+    {
+        "id": 10,
+        "value": "Implement a [language] program that reads [input] and writes [output]."
+    },
+    {
+        "id": 11,
+        "value": "Show me how to write a [language] function that performs [specific task]."
+    },
+    {
+        "id": 12,
+        "value": "How do I create a class in [language] with these attributes: [attributes list]?"
+    },
+    {
+        "id": 13,
+        "value": "Write a [language] script to connect to a database and perform [database operation]."
+    },
+    {
+        "id": 14,
+        "value": "Provide a [language] code to perform file operations like [file operations list]."
+    },
+    {
+        "id": 15,
+        "value": "Create a [language] function that converts [data type A] into [data type B]."
+    },
+    {
+        "id": 16,
+        "value": "Write a [language] script that interacts with [database] and performs [operations]."
+    },
+    {
+        "id": 17,
+        "value": "Generate a [language] class to model a [real-world object] with these properties: [list of properties]."
+    },
+    {
+        "id": 18,
+        "value": "Create a [language] function to [perform task] with the following inputs: [input variables]."
+    },
+    {
+        "id": 19,
+        "value": "Write a [language] script to connect to [database] and execute [operation]."
+    },
+    {
+        "id": 20,
+        "value": "Can you generate a [language] class for [object] with these attributes: [list of attributes]?"
+    },
+    {
+        "id": 21,
+        "value": "Write a [language] script to process [data type] and achieve [task] with these requirements: [requirements list]."
+    },
+    {
+        "id": 22,
+        "value": "Develop a [language] function to perform [task] using [methodology or library] with the inputs: [input variables]."
+    },
+    {
+        "id": 23,
+        "value": "Can you help me code a [language] algorithm to solve [problem] given the constraints: [constraints list]?"
+    },
+    {
+        "id": 24,
+        "value": "Could you create a [language] function to [task], which takes in [input variables] and returns [output], under these constraints [constraints list]?"
+    },
+    {
+        "id": 25,
+        "value": "Write a [language] script to parse [file format], extract [information], and store the data in [data structure] following these requirements: [requirements list]."
+    },
+    {
+        "id": 26,
+        "value": "Write a [language] function to calculate [mathematical concept] using [algorithm]. The function should take these inputs: [input variables] and return [expected output]."
+    },
+    {
+        "id": 27,
+        "value": "Develop a [language] program to read [file type], perform [operations] and write the results to [output format]."
+    },
+    {
+        "id": 28,
+        "value": "Create a [language] program that reads [input file type], performs [operations], then writes the results to [output file type] following the format: [format description]."
+    },
+    {
+        "id": 29,
+        "value": "Implement a [language] script that uses [API] to retrieve [data type] and store it in [database]."
+    },
+    {
+        "id": 30,
+        "value": "Write a [language] function named [function name] that performs [task]. The function should accept these inputs: [input variables] and return [expected output]. Also, handle the following edge cases: [edge case description]."
+    },
+    {
+        "id": 31,
+        "value": "Implement a [language] script using [library/API] that retrieves [data type], performs [operation], and then stores it in [database] with a structure of [database schema]."
+    },
+    {
+        "id": 32,
+        "value": "Implement a [language] algorithm for [task], given these input parameters [input parameters], it should output [expected output] and consider these constraints [constraints list]."
+    },
+    {
+        "id": 33,
+        "value": "Please write a [language] function named [function name] to [task], which takes in [input variables] and returns [output], under these constraints [constraints list]."
+    },
+    {
+        "id": 34,
+        "value": "Create a [language] script to parse [file format], extract [information], and store the data in [data structure] with the following requirements: [requirements list]."
+    },
+    {
+        "id": 35,
+        "value": "Implement a [language] algorithm for [task], given these input parameters [input parameters], it should output [expected output] and consider these constraints [constraints list]."
+    }
+]

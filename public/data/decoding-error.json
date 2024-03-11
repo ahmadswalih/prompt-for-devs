@@ -1,0 +1,51 @@
+[
+    {
+      "id": 1,
+      "value": "I’m getting this error message when running my [language] code: [error message]. What does it mean?"
+    },
+    {
+      "id": 2,
+      "value": "Can you explain this [language] compiler error: [error message]?"
+    },
+    {
+      "id": 3,
+      "value": "I don’t understand this [language] runtime error: [error message]. Can you help?"
+    },
+    {
+      "id": 4,
+      "value": "I got this error message in my [language] code: [error message]. What could be causing it?"
+    },
+    {
+      "id": 5,
+      "value": "I don’t understand what this [language] error message means: [error message]. Can you explain it to me?"
+    },
+    {
+      "id": 6,
+      "value": "While running my [language] code, I encountered this error: [error message]. How can I resolve it?"
+    },
+    {
+      "id": 7,
+      "value": "I encountered this error message when running my [language] code: [error message]. What does it mean and how can I fix it?"
+    },
+    {
+      "id": 8,
+      "value": "I received the following error message when trying to implement [task] in [language]: [error message]. Can you explain what’s going wrong?"
+    },
+    {
+      "id": 9,
+      "value": "Help me understand this error message from my [language] code: [error message] and suggest possible solutions."
+    },
+    {
+      "id": 10,
+      "value": "I’m getting this error message: [error message] when I try to run my [language] code: [code snippet]. What does it mean and how can I fix it?"
+    },
+    {
+      "id": 11,
+      "value": "Could you explain the meaning of this [language] error message: [error message] that occurs when executing the function: [code snippet] using [input data]?"
+    },
+    {
+      "id": 12,
+      "value": "I encountered this error message: [error message] while working with [language] on [task]. Could you explain what’s causing it and suggest a way to resolve it?"
+    }
+  ]
+  

@@ -1,0 +1,43 @@
+[
+    {
+      "id": 1,
+      "value": "Can you explain the principles of Agile in the context of a [type of project] project?"
+    },
+    {
+      "id": 2,
+      "value": "What are the best practices for managing a [type of project] project using Agile methodologies?"
+    },
+    {
+      "id": 3,
+      "value": "Can you explain how to apply Agile methodologies in a [language] project with [specific conditions]?"
+    },
+    {
+      "id": 4,
+      "value": "What project management best practices should I consider for my [language] project on [platform or domain]?"
+    },
+    {
+      "id": 5,
+      "value": "How can I apply Agile principles to manage my [language] development project with a team of [team size]?"
+    },
+    {
+      "id": 6,
+      "value": "What are the benefits of using Scrum in a [language] project developed for [industry/domain]?"
+    },
+    {
+      "id": 7,
+      "value": "I’m leading a [language] project with [team size] developers. Can you provide best practices for managing the project using Agile methodologies?"
+    },
+    {
+      "id": 8,
+      "value": "Can you explain how to implement the [Agile methodology] in a [project type] with a team size of [number] and during [specific constraints]?"
+    },
+    {
+      "id": 9,
+      "value": "I’m managing a [project type] using the [Agile methodology]. Could you provide guidance on how to handle [specific challenge] considering our team size of [number] and [specific condition]?"
+    },
+    {
+      "id": 10,
+      "value": "How can I adapt [Agile methodology] for a [project type] to achieve [specific goal] while dealing with [specific challenge] and within [specific timeframe]?"
+    }
+  ]
+  

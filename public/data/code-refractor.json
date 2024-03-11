@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "value": "Suggest a refactor for this [language] function: [code snippet]."
+    },
+    {
+        "id": 2,
+        "value": "How can I make this [language] code more readable: [code snippet]?"
+    },
+    {
+        "id": 3,
+        "value": "What are some ways I can refactor this [language] script for better performance: [code snippet]?"
+    },
+    {
+        "id": 4,
+        "value": "I’d like to refactor this [language] code to be more object-oriented: [code snippet]. Any suggestions?"
+    },
+    {
+        "id": 5,
+        "value": "Could you show me how to refactor this [language] function to be more idiomatic: [code snippet]?"
+    },
+    {
+        "id": 6,
+        "value": "I’m considering refactoring this [language] script to use [concept or feature]: [code snippet]. How would you approach this?"
+    },
+    {
+        "id": 7,
+        "value": "How can I refactor the following [language] code: [code snippet] to follow the [specific coding principle or pattern]?"
+    },
+    {
+        "id": 8,
+        "value": "Could you show me how to refactor this [language] function: [code snippet] to use more modern features such as [specific feature]?"
+    },
+    {
+        "id": 9,
+        "value": "Suggest a way to refactor the following [language] code: [code snippet] to improve [specific aspect]."
+    },
+    {
+        "id": 10,
+        "value": "How can I refactor this [language] code: [code snippet] to improve [aspect] and align with [specific coding standard or principle]?"
+    },
+    {
+        "id": 11,
+        "value": "I want to refactor this [language] function: [code snippet] to make it more idiomatic and maintainable. Additionally, it should handle [specific edge cases]. Any suggestions?"
+    },
+    {
+        "id": 12,
+        "value": "Suggest a way to refactor this [language] code: [code snippet] to follow [specific design pattern] while improving [specific aspect]."
+    }
+]

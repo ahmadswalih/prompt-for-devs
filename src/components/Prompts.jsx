@@ -19,7 +19,7 @@ const Prompts = ({ prompt }) => {
     }
   };
   return (
-    <div className="bg-purple-300 p-4 rounded-md flex flex-col text-black hover:shadow-md border border-purple-500 ">
+    <div className="bg-purple-300 p-4 mb-10 w-[44rem]  rounded-md flex flex-col text-black hover:shadow-md border border-purple-500 ">
       <p>{prompt}</p>
       <button
         className="relative bottom-0 items-end justify-end flex right-0 m-2 text-white hover:text-gray-300"

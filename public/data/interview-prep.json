@@ -1,0 +1,47 @@
+[
+    {
+      "id": 1,
+      "value": "Can you provide some common [language] interview questions?"
+    },
+    {
+      "id": 2,
+      "value": "I’m preparing for an interview. Could you give me some tricky [language] questions and their solutions?"
+    },
+    {
+      "id": 3,
+      "value": "What are some challenging [language] tasks I might be asked to code during an interview?"
+    },
+    {
+      "id": 4,
+      "value": "What are some common [language] problems asked in coding interviews related to [concept]?"
+    },
+    {
+      "id": 5,
+      "value": "Can you provide some example tasks in [language] that are commonly used to test [concept] in interviews?"
+    },
+    {
+      "id": 6,
+      "value": "I have an interview coming up for a [language] position focusing on [specific topic]. Could you provide me with some common interview questions and solutions?"
+    },
+    {
+      "id": 7,
+      "value": "What are some challenging problems in [language] related to [concept] that are often asked in technical interviews?"
+    },
+    {
+      "id": 8,
+      "value": "I’m preparing for an interview that requires knowledge of [language] and [concept]. Could you provide me some practice questions?"
+    },
+    {
+      "id": 9,
+      "value": "I’m preparing for a coding interview in [language]. Could you give me an example of a common question about [topic], its optimal solution, and an explanation of its complexity?"
+    },
+    {
+      "id": 10,
+      "value": "For my upcoming [language] coding interview, could you provide a complex problem about [topic], its step-by-step solution, and an analysis of its time and space complexity?"
+    },
+    {
+      "id": 11,
+      "value": "I am preparing for a [language] coding interview. Can you give me a problem related to [topic], a sample optimal solution, and a brief walkthrough of how it works?"
+    }
+  ]
+  

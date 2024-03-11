@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "value": "What is the best way to implement the [design pattern] pattern in [language]?"
+    },
+    {
+        "id": 2,
+        "value": "Can you explain how the [design pattern] pattern works in [language]?"
+    },
+    {
+        "id": 3,
+        "value": "How do I use the [design pattern] design pattern in this [language] code: [code snippet]?"
+    },
+    {
+        "id": 4,
+        "value": "Could you provide an example of using the [design pattern] pattern in a [language] project?"
+    },
+    {
+        "id": 5,
+        "value": "How could I apply the [design pattern] pattern to this [language] code: [code snippet]?"
+    },
+    {
+        "id": 6,
+        "value": "What are the benefits of using the [design pattern] pattern in a [language] application?"
+    },
+    {
+        "id": 7,
+        "value": "Provide an example of how to implement the [design pattern] in [language] for a software component that handles [task]."
+    },
+    {
+        "id": 8,
+        "value": "What is the best way to apply the [design pattern] in [language] to solve [problem] in the given code: [code snippet]?"
+    },
+    {
+        "id": 9,
+        "value": "Explain how the [design pattern] can be used to improve the following [language] code: [code snippet] used in [context]."
+    },
+    {
+        "id": 10,
+        "value": "Could you show me how to implement the [design pattern] in [language] for a [specific system component] while considering [specific constraints]?"
+    },
+    {
+        "id": 11,
+        "value": "Explain how to apply the [design pattern] in [language] to solve [specific problem] in the context of [application type]. Also, provide a code example."
+    },
+    {
+        "id": 12,
+        "value": "I have this [language] code: [code snippet]. How could I refactor it to follow the [design pattern] and improve [specific aspect]?"
+    }
+]

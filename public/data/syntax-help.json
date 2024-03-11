@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "value": "What is the correct syntax to [perform task] in [language]?"
+    },
+    {
+        "id": 2,
+        "value": "How do I use [command or function] in [language]?"
+    },
+    {
+        "id": 3,
+        "value": "Can you show me the syntax to [perform task] in [language]?"
+    },
+    {
+        "id": 4,
+        "value": "What’s the correct syntax for implementing [concept] in [language]?"
+    },
+    {
+        "id": 5,
+        "value": "How can I use the [language feature] in [language]?"
+    },
+    {
+        "id": 6,
+        "value": "I’m having trouble with the syntax for [concept] in [language]. Can you help?"
+    },
+    {
+        "id": 7,
+        "value": "What is the correct syntax for performing [task] using [specific feature] in [language]?"
+    },
+    {
+        "id": 8,
+        "value": "I’m struggling with the syntax for [concept] in [language]. Can you show me how to do it with a code example?"
+    },
+    {
+        "id": 9,
+        "value": "How do I use the [specific syntax] in [language] to perform [operation] on [data type]?"
+    },
+    {
+        "id": 10,
+        "value": "I’m unsure about the correct syntax for [operation] using [specific feature] in [language]. Could you provide an example where it’s used in [context]?"
+    },
+    {
+        "id": 11,
+        "value": "Could you show me the proper syntax and usage of [feature] in [language] to accomplish [task] with [specific data type]?"
+    },
+    {
+        "id": 12,
+        "value": "I need help with the syntax for [concept] in [language]. Can you show me a code snippet that uses it to solve [problem]?"
+    }
+]
