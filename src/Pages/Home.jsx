@@ -1,7 +1,6 @@
 import React, { useEffect, useState } from "react";
 import { CategoryList } from "../components";
 import logo from "../assets/logo.png";
-import ReactGA from "react-ga";
 
 const HomePage = () => {
   const [categories, setCategories] = useState([]);
@@ -13,9 +12,6 @@ const HomePage = () => {
       .catch((error) =>
         console.error("Error fetching or parsing data:", error)
       );
-
-    // Track pageview when component mounts
-    ReactGA.pageview(window.location.pathname + window.location.search);
   }, []);
 
   return (
