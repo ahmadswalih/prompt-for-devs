@@ -36,7 +36,8 @@ const HomePage = () => {
         the evolving landscape of AI technologies.
         <br /> <br />
         The Entire Data for the application is scraped from the internet and The
-        Application is entirely Opensource including the data.
+        Application is entirely Opensource including the data.So feel free to
+        contribute
       </p>
       <a target="_blank" href="https://github.com/ahmadswalih/prompt-for-devs">
         {" "}
