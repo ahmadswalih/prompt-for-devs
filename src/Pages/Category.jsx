@@ -5,6 +5,7 @@ import { Prompts } from "../components";
 const CategoryPage = () => {
   const { categoryName } = useParams();
   const [prompts, setPrompts] = useState([]);
+  const [categoryDescription, setCategoryDescription] = useState("");
   const [currentPage, setCurrentPage] = useState(1);
   const promptsPerPage = 6;
 
@@ -17,6 +18,24 @@ const CategoryPage = () => {
       );
   }, [categoryName]);
 
+  useEffect(() => {
+    fetch("/data/categories.json")
+      .then((response) => response.json())
+      .then((data) => {
+        const category = data.find(
+          (category) => category.value === categoryName
+        );
+        if (category) {
+          setCategoryDescription(category.description);
+        } else {
+          setCategoryDescription("no description");
+        }
+      })
+      .catch((error) =>
+        console.error("Error fetching or parsing data:", error)
+      );
+  }, [categoryName]);
+
   const indexOfLastPrompt = currentPage * promptsPerPage;
   const indexOfFirstPrompt = indexOfLastPrompt - promptsPerPage;
   const currentPrompts = prompts.slice(indexOfFirstPrompt, indexOfLastPrompt);
@@ -24,15 +43,18 @@ const CategoryPage = () => {
   const paginate = (pageNumber) => setCurrentPage(pageNumber);
 
   return (
-    <div className="text-black items-center   flex mx-auto my-auto flex-col justify-center mt-16">
+    <div className="text-black items-center flex mx-auto my-auto flex-col justify-center mt-16">
       <Link to="/">
         <p className="text-sm bg-purple-500 cursor-pointer text-white p-2 mb-3 border border-purple-400 rounded-lg">
           Back to Home page
         </p>
       </Link>
-      <p className=" text-3xl md:text-4xl text-center ">
-        Popular Prompts for : <br />{" "}
+      <p className="text-3xl md:text-4xl text-center">
+        Popular Prompts for : <br />
         <span className="font-bold">{categoryName}</span>
+      </p>
+      <p className="text-gray-500 text-lg md:text-xl items-center w-[27rem] md:w-[40rem] text-center mt-4">
+        {categoryDescription === "" ? categoryName : categoryDescription}
       </p>
       <div className="mt-10">
         {currentPrompts.map((value) => (
